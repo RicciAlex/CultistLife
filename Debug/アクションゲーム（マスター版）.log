@@ -1,0 +1,19 @@
+﻿  player.cpp
+c:\users\student\documents\visual studio 2015\projects\アクションゲーム（マスター版）\player.cpp(54): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+c:\users\student\documents\visual studio 2015\projects\アクションゲーム（マスター版）\player.cpp(192): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\アクションゲーム（マスター版）\player.cpp(196): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\アクションゲーム（マスター版）\player.cpp(202): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\アクションゲーム（マスター版）\player.cpp(209): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\アクションゲーム（マスター版）\player.cpp(213): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\アクションゲーム（マスター版）\player.cpp(221): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\アクションゲーム（マスター版）\player.cpp(225): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\アクションゲーム（マスター版）\player.cpp(239): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\アクションゲーム（マスター版）\player.cpp(243): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\アクションゲーム（マスター版）\player.cpp(248): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\アクションゲーム（マスター版）\player.cpp(255): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\アクションゲーム（マスター版）\player.cpp(259): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\アクションゲーム（マスター版）\player.cpp(267): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\アクションゲーム（マスター版）\player.cpp(271): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\アクションゲーム（マスター版）\player.cpp(363): warning C4552: '<=': 演算子にプログラム上の作用がありません。作用を伴う演算子を使用してください
+  アクションゲーム（マスター版）.vcxproj -> C:\Users\student\Documents\Visual Studio 2015\Projects\アクションゲーム（マスター版）\Debug\アクションゲーム（マスター版）.exe
+  アクションゲーム（マスター版）.vcxproj -> C:\Users\student\Documents\Visual Studio 2015\Projects\アクションゲーム（マスター版）\Debug\アクションゲーム（マスター版）.pdb (Full PDB)
